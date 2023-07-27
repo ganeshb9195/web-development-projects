@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@600&display=swap');
+h1.navbar-brand.text-primary.fs-3.me-5 {
+    margin-left: 7%;
+}
+a.nav-link {
+    color: black;
+}
+button#\# {
+    padding: 10px 32px;
+}
+
+.h1{
+    font-family: 'Sora', sans-serif;
+    line-height: 55px;
+}
+.section1.justify-content-start.mt-4.ms-5 {
+    width: 40%;
+    display: inline-block;
+}
+input#floatingInput {
+    width: 61%;
+    display: inline-block;
+}
+img#img {
+    float: right;
+}
+.form-floating{
+    margin-top:15%
+}
+img#image {
+    width: 13%;
+}
+.col-12.col-lg-5 {
+    width: 55%;
+    margin-left: 5%;
+}
+.col-12.col-lg-4 {
+    width: 40%;
+}
+.card:hover{
+    background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+}
+img.img-fluid.card-img-top.m-auto {
+    width: 35%;
+}
+img.img-fluid.card-img-bottom.m-auto {
+    width: 47%;
+}
